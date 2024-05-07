@@ -1,6 +1,11 @@
 # Calculadora de Índice de Massa Corporal - IMC
 
 Uma simples (porém funcional) calculadora de IMC feita com JavaScript.
+<br>
+
+Deploy: 
+
+https://calculadora-imc-five-kappa.vercel.app/
 
 <br>
 
